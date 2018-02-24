@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\bin\Debug\txtden grıdviewe.exe
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\bin\Debug\txtden grıdviewe.pdb
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\obj\x86\Debug\txtden_grıdviewe.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\obj\x86\Debug\txtden_grıdviewe.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\obj\x86\Debug\txtden grıdviewe.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\obj\x86\Debug\txtden grıdviewe.exe
+c:\users\asus\documents\visual studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\obj\x86\Debug\txtden grıdviewe.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\txtden grıdviewe\txtden grıdviewe\obj\x86\Debug\txtden grıdviewe.csprojResolveAssemblyReference.cache
